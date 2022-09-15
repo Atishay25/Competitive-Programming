@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+// https://codeforces.com/contest/4/problem/A
+
 int main(){
     int w;
     cin >> w;

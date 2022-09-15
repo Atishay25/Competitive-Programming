@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// https://codeforces.com/contest/231/problem/A
+
 int main(){
 	int n, p1, p2, p3;
 	cin >> n;

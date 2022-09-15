@@ -3,6 +3,8 @@
 #include<string>
 using namespace std;
 
+// https://codeforces.com/contest/71/problem/A
+
 void abbvt(string word){
     int n = word.length();
     if(n > 10){

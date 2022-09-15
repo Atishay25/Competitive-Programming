@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+// https://codeforces.com/contest/158/problem/A
+
 int main(){
 	int n, k;
 	int nextround = 0;
