@@ -18,3 +18,7 @@ My solutions to some Competitive Programming Problems
 - [Code In Quarantine CP by WnCC](https://github.com/wncc/CodeInQuarantine/tree/master/Week_2_CC)
 - [codeforces problem collection](https://codeforces.com/blog/entry/55274)
 - [CP for AP (CS293 2022)](./resources/CP_for_AP.pdf)
+
+## Contest Reminder
+- [CodeClock](https://codeclock.in/)
+- [CLIST](https://clist.by/)
