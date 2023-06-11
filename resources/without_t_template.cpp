@@ -1,4 +1,10 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <cmath>
+#include <string>
+#include <algorithm>
+#include <set>
+#include <map>
 
 using namespace std;
 
@@ -51,31 +57,14 @@ void print_vector(vector<T> a){
     cout << "\n";
 }
 
-void precomp(){
-
-    
-
-}
-
-void solve(){
-    
-    ll n;
-    cin >> n;
-
-}
-
 int main(){
 
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     cout.tie(NULL);
-    ll T;
-    cin>>T;
-    precomp();
-    loop1(I,T){
-        solve();
-        // cout<<"Case #"<<I<<": "<<ans<<"\n";
-    }
+    ll n;
+    cin>>n;
+    
 }
 
 

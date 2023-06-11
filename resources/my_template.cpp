@@ -34,6 +34,7 @@ typedef vector<pair<ll,ll>> vpll;
 #define PI 3.14159265359
 #define INF 1500000000000000000
 #define NINF -1500000000000000000
+#define MOD 1000000007          // 10^9 + 7
 #define loop0(i,n) for(ll i=0;i<n;i++)
 #define loop1(i,n) for(ll i=1;i<=n;i++)
 #define o0(a) cout<<a<<" "
